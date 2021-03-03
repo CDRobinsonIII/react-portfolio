@@ -13,10 +13,14 @@ function PortfolioCard(props) {
             <strong>Title:</strong> {props.portfolioTitle}
           </li>
           <li>
-            <strong>Link to Github Repo:</strong> {props.portfolioGitHubLink}
+            <p><strong>Link to Github Repo: </strong>
+              <a href={props.portfolioGitHubLink}>{props.portfolioGitHubLink}</a>
+            </p>
           </li>
           <li>
-            <strong>Deployed Link:</strong> {props.portfolioDeployedLink}
+            <p><strong>Deployed Link: </strong>
+              <a href={props.portfolioDeployedLink}>{props.portfolioDeployedLink}</a>
+            </p>
           </li>
         </ul>
       </div>
