@@ -2,33 +2,33 @@
   {
     "id": 1,
     "portfolioTitle": "The Brewway",
-    "portfolioScreenShot": "./assets/images/the_brewway.jpg",
-    "portfolioGitHubLinks": "https://github.com/CDRobinsonIII/brewery-tour",
-    "portfolioDeployedLinks": "https://cdrobinsoniii.github.io/brewery-tour/"
+    "portfolioScreenShot": "/assets/images/the_brewway.jpg",
+    "portfolioGitHubLink": "https://github.com/CDRobinsonIII/brewery-tour",
+    "portfolioDeployedLink": "https://cdrobinsoniii.github.io/brewery-tour/"
   },
 
   {
     "id": 2,
     "portfolioTitle": "Weather Dashboard",
-    "portfolioScreenShot": "./assets/images/weather_dashboard.jpg",
-    "portfolioGitHubLinks": "https://github.com/CDRobinsonIII/weather-dashboard",
-    "portfolioDeployedLinks": "https://cdrobinsoniii.github.io/weather-dashboard/"
+    "portfolioScreenShot": "/assets/images/weather_dashboard.jpg",
+    "portfolioGitHubLink": "https://github.com/CDRobinsonIII/weather-dashboard",
+    "portfolioDeployedLink": "https://cdrobinsoniii.github.io/weather-dashboard/"
   },
 
   {
     "id": 3,
     "portfolioTitle": "Burger App",
-    "portfolioScreenShot": "./assets/images/burgerapp.jpg",
-    "portfolioGitHubLinks": "https://github.com/CDRobinsonIII/burger-app",
-    "portfolioDeployedLinks": "https://hamburger-application.herokuapp.com/"
+    "portfolioScreenShot": "/assets/images/burgerapp.jpg",
+    "portfolioGitHubLink": "https://github.com/CDRobinsonIII/burger-app",
+    "portfolioDeployedLink": "https://hamburger-application.herokuapp.com/"
   },
 
   {
     "id": 4,
     "portfolioTitle": "Student Database Portal",
-    "portfolioScreenShot": "./assets/images/studentportal.jpg",
-    "portfolioGitHubLinks": "https://github.com/CDRobinsonIII/student-database-portal",
-    "portfolioDeployedLinks": "https://student-registration-tracker.herokuapp.com/"
+    "portfolioScreenShot": "/assets/images/studentportal.jpg",
+    "portfolioGitHubLink": "https://github.com/CDRobinsonIII/student-database-portal",
+    "portfolioDeployedLink": "https://student-registration-tracker.herokuapp.com/"
   }
   
 ]
