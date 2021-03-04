@@ -1,17 +1,17 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 475px;
+  height: 600px;
   margin: 1rem;
   position: relative;
-  width: 425px;
+  width: 850px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
   border-radius: 3%;
 }
 
 .card > .img-container {
-  height: 50%;
+  height: 73%;
   overflow: hidden;
   text-align: center;
   border-radius: 3%;
@@ -29,7 +29,7 @@
 .card > .content {
   /* padding-left: 1rem; */
   /* padding-right: .5rem; */
-  font-size: 18px;
+  font-size: 21px;
   text-align: left;
 }
 
