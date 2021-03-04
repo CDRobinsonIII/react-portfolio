@@ -3,11 +3,11 @@ import "./style.css";
 
 function PortfolioCard(props) {
   return (
-    <div className="card">
-      <div className="img-container">
+    <div className="card-mine">
+      <div className="img-container-mine">
         <img alt={props.portfolioTitle} src={props.portfolioScreenShot} />
       </div>
-      <div className="content">
+      <div className="content-mine">
         <ul>
           <li>
             <strong>Title:</strong> {props.portfolioTitle}
