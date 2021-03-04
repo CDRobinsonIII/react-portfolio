@@ -4,6 +4,8 @@ import portfolio from './portfolio.json';
 import Wrapper from './components/Wrapper';
 import Title from './components/Title';
 import PortfolioCard from './components/PortfolioCard';
+import Footer from './components/Footer';
+
 
 
 
@@ -28,6 +30,7 @@ class App extends Component {
             portfolioDeployedLink={portfolio.portfolioDeployedLink}
           />
         ))}
+        <Footer/>
       </Wrapper>
     );
   }
