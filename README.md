@@ -61,7 +61,7 @@ Please visit my github page to review my other repositories: [CDRobinsonIII](htt
 
 ## Screenshots of the react portfolio application in use:
 
-![Here is a screenshot of the home(about me) page.](/public/assets/images/screenshot_portfolio_01.jpg)
+![Here is a screenshot of the home(about me) page.](/src/images/screenshot_portfolio_01.jpg)
 
-![Here is a screenshot of the portfolio page.](/public/assets/images/screenshot_portfolio_02.jpg)
+![Here is a screenshot of the portfolio page.](/src/images/screenshot_portfolio_02.jpg)
 
