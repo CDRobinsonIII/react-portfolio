@@ -28,7 +28,7 @@ class Home extends Component {
                     </div>
                     {/* <hr/> */}
                     <div id="emailAndPhoneNumber">
-                        <p>Email: <a id="emailLinkColor" href="mailto:charlesdalerobinson@gmail.com">charlesdalerobinson@gmail.com</a></p>
+                        <p>Email: <a className="contactLinkColor" href="mailto:charlesdalerobinson@gmail.com">charlesdalerobinson@gmail.com</a></p>
                         <p>Phone: 619-508-8168</p>
                     </div>
                     {/* <hr/> */}

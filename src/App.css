@@ -39,3 +39,7 @@ html {
   background-color:lightseagreen;
   min-height: 100vh;
 }
+
+.contactLinkColor {
+  color: white;
+}
