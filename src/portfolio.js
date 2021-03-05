@@ -1,8 +1,8 @@
-[
+export const data = [
   {
     "id": 1,
     "portfolioTitle": "The Brewway",
-    "portfolioScreenShot": "/assets/images/the_brewway.jpg",
+    "portfolioScreenShot": require("./images/the_brewway.jpg"),
     "portfolioGitHubLink": "https://github.com/CDRobinsonIII/brewery-tour",
     "portfolioDeployedLink": "https://cdrobinsoniii.github.io/brewery-tour/"
   },
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "portfolioTitle": "Weather Dashboard",
-    "portfolioScreenShot": "/assets/images/weather_dashboard.jpg",
+    "portfolioScreenShot": require("./images/weather_dashboard.jpg"),
     "portfolioGitHubLink": "https://github.com/CDRobinsonIII/weather-dashboard",
     "portfolioDeployedLink": "https://cdrobinsoniii.github.io/weather-dashboard/"
   },
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "portfolioTitle": "Burger App",
-    "portfolioScreenShot": "/assets/images/burgerapp.jpg",
+    "portfolioScreenShot": require("./images/burgerapp.jpg"),
     "portfolioGitHubLink": "https://github.com/CDRobinsonIII/burger-app",
     "portfolioDeployedLink": "https://hamburger-application.herokuapp.com/"
   },
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "portfolioTitle": "Student Database Portal",
-    "portfolioScreenShot": "/assets/images/studentportal.jpg",
+    "portfolioScreenShot": require("./images/studentportal.jpg"),
     "portfolioGitHubLink": "https://github.com/CDRobinsonIII/student-database-portal",
     "portfolioDeployedLink": "https://student-registration-tracker.herokuapp.com/"
   }
