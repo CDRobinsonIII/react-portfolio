@@ -12,3 +12,30 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.about-me {
+  font-size: 20px;
+}
+
+.aboutMe {
+  background-color:lightseagreen;
+  display: block;
+}
+
+.bgcontainer {
+  background-color: lightseagreen;
+  border-radius: 1rem;
+}
+
+.headshot {
+  float: left;
+  margin-right: 20px;
+  width:50%;
+  border-radius: 1rem;
+}
+
+html {
+  position: relative;
+  background-color:lightseagreen;
+  min-height: 100vh;
+}

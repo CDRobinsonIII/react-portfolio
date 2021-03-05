@@ -15,7 +15,7 @@ class Portfolio extends Component {
   render() {
     return (
       <div>
-        <Title>Hello World! Here is my portfolio:</Title>
+        <Title>My portfolio:</Title>
         {this.state.portfolio.map(portfolio => (
           <PortfolioCard
             id={portfolio.id}
